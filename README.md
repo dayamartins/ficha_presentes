@@ -6,7 +6,7 @@ Cada pessoa preenche, toca em **Gerar mensagem** e recebe um texto pronto, já f
 
 ## Link
 
-👉 https://dayamartins.github.io/ficha-presentes/
+👉 https://dayamartins.github.io/ficha_presentes/
 
 (Troque `SEUUSUARIO` pelo seu nome de usuário do GitHub depois de ativar o GitHub Pages.)
 
