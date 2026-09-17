@@ -6,7 +6,7 @@ Cada pessoa preenche, toca em **Gerar mensagem** e recebe um texto pronto, já f
 
 ## Link
 
-👉 https://dayamartins.github.io/ficha_presentes/
+👉 [https://dayamartins.github.io/ficha_presentes/](https://github.com/dayamartins/ficha_presentes/tree/main)
 
 ## Como funciona
 
