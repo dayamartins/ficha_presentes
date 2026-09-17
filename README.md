@@ -8,8 +8,6 @@ Cada pessoa preenche, toca em **Gerar mensagem** e recebe um texto pronto, já f
 
 👉 https://dayamartins.github.io/ficha_presentes/
 
-(Troque `SEUUSUARIO` pelo seu nome de usuário do GitHub depois de ativar o GitHub Pages.)
-
 ## Como funciona
 
 - É um arquivo único, `index.html`, com todo o HTML, CSS e JavaScript dentro. Não usa servidor, banco de dados nem cadastro.
